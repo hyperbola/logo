@@ -1,0 +1,38 @@
+{
+  "name": "@hyperbola/logo",
+  "version": "0.1.0",
+  "description": "hyperbola logo",
+  "keywords": [
+    "assets",
+    "logo"
+  ],
+  "homepage": "https://github.com/hyperbola/logo#readme",
+  "bugs": "https://github.com/hyperbola/logo/issues",
+  "license": "MIT",
+  "author": "Ryan Lopopolo <rjl@hyperbo.la> (https://hyperbo.la/)",
+  "contributors": [
+    "Ryan Lopopolo <rjl@hyperbo.la> (https://hyperbo.la/)"
+  ],
+  "repository": "github:hyperbola/logo",
+  "main": "index.js",
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "favicons",
+    "img",
+    "index.js",
+    "optimized"
+  ],
+  "devDependencies": {},
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "commonjs": true,
+      "es6": true,
+      "node": true
+    }
+  },
+  "scripts": {
+    "fmt": "npx prettier --write '**/*'"
+  }
+}
