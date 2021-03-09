@@ -3,7 +3,7 @@
 Logo for [hyperbo.la].
 
 <p align="center">
-  <img width="300" src="https://hyperbola.github.io/logo/hyperbola-logo.svg">
+  <img width="300" src="https://hyperbola.github.io/logo/hyperbola-logo.svg?cachebust=v2">
 </p>
 
 ## Attribution
