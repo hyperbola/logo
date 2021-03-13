@@ -26,7 +26,7 @@ with the following snippet:
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="black" />
 
     <!-- Windows 8 IE 10 -->
-    <meta name="msapplication-tilecolor" content="#ffffff" />
+    <meta name="msapplication-tilecolor" content="#222222" />
     <meta name="msapplication-tileimage" content="/mstile-150x150.png" />
 
     <!-- Windows 8.1 + IE11 and above -->
