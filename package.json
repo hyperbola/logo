@@ -16,7 +16,7 @@
   "repository": "github:hyperbola/logo",
   "main": "index.js",
   "files": [
-    "LICENSE.md",
+    "LICENSE",
     "README.md",
     "favicons",
     "img",
